@@ -1,0 +1,9 @@
+
+Compile:
+
+javac -cp .:/home/viirya/repos/imdict-chinese-analyzer-read-only/src/imdict.jar:/home/viirya/repos/imdict-chinese-analyzer-read-only/lib/lucene-core-2.4.1.jar org/viirya/lucene/analysis/tw/*.java
+
+Run:
+
+java -cp ./:/home/viirya/repos/imdict-chinese-analyzer-read-only/lib/lucene-core-2.4.1.jar:/home/viirya/repos/imdict-chinese-analyzer-read-only/src/imdict.jar:/home/viirya/temp/lucene-3.5.0/lib/junit-4.7.jar:./chineseanalyzer.jar org.viirya.lucene.analysis.tw.ChineseLineAnalyzer ../test2.txt
+

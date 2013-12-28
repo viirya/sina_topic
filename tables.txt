@@ -1,0 +1,17 @@
++-----------------+
+| Tables_in_test  |
++-----------------+
+| comments        |
+| crons           |
+| fans            |
+| influences      |
+| kscore_history  |
+| posts           |
+| reposts         |
+| robot_apps      |
+| robot_mans      |
+| topics          |
+| users           |
+| users_fans      |
++-----------------+
+

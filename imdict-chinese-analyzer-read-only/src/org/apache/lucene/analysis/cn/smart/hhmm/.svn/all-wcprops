@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm
+END
+SegToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/SegToken.java
+END
+SegGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/SegGraph.java
+END
+WordDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/WordDictionary.java
+END
+bigramdict.mem
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/bigramdict.mem
+END
+PathNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/PathNode.java
+END
+HHMMSegmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/HHMMSegmenter.java
+END
+SegTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenFilter.java
+END
+BigramDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/BigramDictionary.java
+END
+coredict.mem
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/coredict.mem
+END
+AbstractDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/AbstractDictionary.java
+END
+BiSegGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/BiSegGraph.java
+END
+SegTokenPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenPair.java
+END
